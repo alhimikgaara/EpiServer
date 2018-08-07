@@ -6,3 +6,5 @@
 /.vs
 /EpiserverSite2/bin
 /packages
+/EpiserverSite1/bin
+/EpiserverSite1/obj/Debug
