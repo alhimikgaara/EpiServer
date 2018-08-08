@@ -7,16 +7,9 @@ using EPiServer.SpecializedProperties;
 
 namespace EpiserverSite1.Models.Pages
 {
-    [ContentType(DisplayName = "DefaultPage1", GUID = "53065327-3876-4417-9f90-91d6a5363dee", Description = "")]
+    [ContentType(DisplayName = "StandardPage", GUID = "6fdb20ec-a0bd-4080-9338-a84017f7e97f", Description = "")]
     public class StandardPage : PageData
     {
-        [CultureSpecific]
-        [Display(
-            Name = "Heading",
-            Description = "The page heading",
-            GroupName = SystemTabNames.Content,
-            Order = 1)]
-        public virtual String Heading { get; set; }
 
         [CultureSpecific]
         [Display(

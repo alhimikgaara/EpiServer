@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiserverSite1", "EpiserverSite1\EpiserverSite1.csproj", "{14A2F7AD-BEC8-4FF3-ACEE-DEB8721CB039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A2F7AD-BEC8-4FF3-ACEE-DEB8721CB039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A2F7AD-BEC8-4FF3-ACEE-DEB8721CB039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A2F7AD-BEC8-4FF3-ACEE-DEB8721CB039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A2F7AD-BEC8-4FF3-ACEE-DEB8721CB039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD8CFEA-7F1D-42CD-B3F6-FB8AEF9FAA9C}
+	EndGlobalSection
+EndGlobal
